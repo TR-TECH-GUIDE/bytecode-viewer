@@ -1,6 +1,6 @@
 # Bytecode Viewer
 
-Bytecode Viewer - a lightweight user friendly Java Bytecode Viewer.
+Bytecode Viewer is a lightweight user friendly Java Bytecode Viewer.
 
 #### New Features
 * Dark Mode
